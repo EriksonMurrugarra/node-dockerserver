@@ -1,2 +1,2 @@
-Docker Node Server
-Dockerizing a node runtime in the best way
+#Docker Node Server
+Node.js Application running on Docker.
